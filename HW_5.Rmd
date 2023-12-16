@@ -1,6 +1,6 @@
 ---
 title: "Lecture 5"
-author: "shivangsingh.manhas@rutgers.edu"
+author: "srk195@scarletmail.rutgers.edu"
 date: "10/25/2023"
 output: html_document
 ---
